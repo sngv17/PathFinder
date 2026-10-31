@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "q1",
+    "scenario": "You get a brand-new high-tech gadget or software tool with no manual. What is your immediate instinct?",
+    "options": [
+      {
+        "text": "I press buttons, change settings, break things on purpose, and figure out the system logic by trial and error.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I carefully check the physiological safety warnings, battery radiation specs, and health guidelines first.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I check the retail price, warranty coverage, resale value, and whether I got a good market deal.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I look up the legal terms, consumer protection rights, and privacy policy of the manufacturer.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I evaluate how visually sleek it looks, its packaging design, build texture, and aesthetic vibe.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "scenario": "How do you want your learning and work environment structured over the next 5 to 7 years?",
+    "options": [
+      {
+        "text": "Constant tech changes: I want to learn new code/tools every 6 months and build software or machines immediately.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Fixed & Deep runway: I want a clear, massive 6-year medical syllabus where core facts don't change, but require deep mastery.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Dynamic & Market-driven: I want to track real-world news, stock movements, and business trends daily.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Policy & Debate focused: I want structured study preparing for competitive public exams (UPSC/CLAT), essays, and law.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Portfolio & Brand focused: I want continuous visual creation, launching D2C products, styling, or digital media content.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "scenario": "How do you react when someone gives critical feedback on a project you spent weeks on?",
+    "options": [
+      {
+        "text": "If my code or math formula works and passes the test cases, opinions don't matterâ€”the logic speaks for itself.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I double-check if my diagnostic steps follow strict scientific standard operating procedures.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I measure it against the final financial outputâ€”did it make money, cut costs, or increase efficiency?",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I analyze whether my argument was legally sound, historically accurate, and logically convincing.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I embrace subjective feedback to refine the visual style, brand narrative, drape, or creative aesthetic.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "scenario": "Imagine working on a single task for 8 straight hours. Which kind of mental fatigue feels most rewarding to you?",
+    "options": [
+      {
+        "text": "Debugging code errors or mechanical glitches until the system finally runs perfectly.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Memorizing 100 pages of biological pathways, anatomical terms, and medical case studies.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Analyzing balance sheets, stock charts, and identifying tax or profit leaks.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Drafting a 15-page legal argument, constitutional case study, or historical policy essay.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Designing a 10-piece apparel collection, editing a viral video, or crafting a D2C brand lookbook.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "scenario": "What is your relationship with 'Trial & Error' versus 'Flawless Execution'?",
+    "options": [
+      {
+        "text": "Iterative trial & error: Build fast, break things, patch the error, and ship the next software version.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Zero tolerance for error: In living systems or patient care, precision and strict biological protocols come first.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Calculated risk: I take measured financial risks if the profit upside outweighs the downside.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Rule-bound compliance: I follow constitutional laws, administrative guidelines, and official exam syllabi strictly.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Creative iteration: I continuously tweak patterns, visual edits, and colors until it evokes the exact mood.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "scenario": "When you hear about a major breakthrough in Artificial Intelligence, what is your immediate thought?",
+    "options": [
+      {
+        "text": "'How was the model trained and how can I write an API script to build a tool with it?'",
+        "stream": "PCM"
+      },
+      {
+        "text": "'How will this change robotic surgery, brain mapping, or early cancer diagnosis?'",
+        "stream": "PCB"
+      },
+      {
+        "text": "'Which tech stocks will rise and how will it disrupt existing company valuations?'",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "'How will governments regulate this? What are the copyright laws and public policy impacts?'",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "'How can creators use this for AI fashion models, automated video editing, and digital art design?'",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q7",
+    "scenario": "You are organizing a massive school festival. Which department do you naturally take charge of?",
+    "options": [
+      {
+        "text": "Stage lighting, sound engineering, online ticket app development, and technical setups.",
+        "stream": "PCM"
+      },
+      {
+        "text": "First-aid station, safety protocols, food hygiene verification, and emergency medical readiness.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Sponsorship acquisition, budget allocation, ticket pricing strategy, and profit tracking.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Drafting rules, handling inter-school legal permits, discipline, and chief guest political protocol.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Theme aesthetic, costume styling for hosts, promotional reels/content, and social media branding.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q8",
+    "scenario": "How do you feel about multi-year competitive exam preparation (like JEE, NEET, UPSC, CA)?",
+    "options": [
+      {
+        "text": "I prefer building real tech projects and portfolios over sitting in exam halls for years.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I have high stamina for structured long-term medical exam cycles (NEET-UG, NEXT, Super-specialty).",
+        "stream": "PCB"
+      },
+      {
+        "text": "I prefer modular professional credential exams (CA/CFA levels) taken alongside practical work.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I excel at deep, marathon reading of heavy textbooks for competitive government/law exams (UPSC/CLAT).",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I prefer project-based entrance tests (NIFT/NID studio tests, design portfolios) over theoretical exams.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q9",
+    "scenario": "When you visit a famous historical monument, what captures your attention first?",
+    "options": [
+      {
+        "text": "The structural engineering: How the arches carry heavy loads and resist earthquakes.",
+        "stream": "PCM"
+      },
+      {
+        "text": "The surrounding ecosystem: Surrounding plant species, soil biology, and natural preservation.",
+        "stream": "PCB"
+      },
+      {
+        "text": "The tourism economy: Ticket sales revenue, souvenir vendor margins, and local commercial impact.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "The political history: Which kingdom ruled, what laws were declared, and its historical significance.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "The visual artistry: Architectural carvings, aesthetic symmetry, period clothing styles, and decor.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "scenario": "What type of academic problem makes you want to give up the fastest?",
+    "options": [
+      {
+        "text": "Memorizing hundreds of detailed names and biological classifications without mathematical logic.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Fixing endless computer code syntax errors where a missing semicolon breaks everything.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Writing long subjective opinion essays where grading depends entirely on the teacher's mood.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Solving 30 complex calculus equations that have zero connection to human society or history.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Staring at dry, black-and-white spreadsheets with no visual storytelling or creative input.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "scenario": "If you were to start a content channel today, what would your primary focus be?",
+    "options": [
+      {
+        "text": "Tech teardowns, software development, robotics build logs, or gaming tech.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Human body facts, medical myth-busting, biological discoveries, or fitness science.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Personal finance tips, stock market analysis, startup case studies, and wealth strategies.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "UPSC/Govt exam prep breakdowns, legal rights awareness, geopolitical analysis, or history docs.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Fashion lookbooks, streetwear D2C brand reviews, aesthetic vlogs, or video editing tutorials.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "scenario": "How do you view handling human illness, physical distress, or high-emotion personal situations?",
+    "options": [
+      {
+        "text": "I prefer working with computers, software, or machines rather than emotional human situations.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I feel a deep calling to stay calm, diagnose symptoms, and directly heal people in pain.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I view human choices through rational economic trade-offs, incentives, and financial needs.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I approach human issues through constitutional rights, public policy reform, and legal advocacy.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I help people express themselves through personal styling, visual transformation, and media confidence.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "scenario": "When opening a heavy textbook, which page layout catches your eye immediately?",
+    "options": [
+      {
+        "text": "Pages with circuit diagrams, geometric proofs, physics vector graphs, and math formulas.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Pages with detailed biological illustrations, organ cross-sections, and cell systems.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Pages with balance sheet ledgers, stock charts, pie charts, and economic cycles.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Pages with historic maps, legislative acts, constitutional articles, and deep text essays.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Pages with colorful mood boards, fabric swatch charts, photo layouts, and fashion sketches.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "scenario": "How do you view the role of 'Money' in your future career?",
+    "options": [
+      {
+        "text": "A byproduct of building scalable software tools, high-tech hardware, or engineering products.",
+        "stream": "PCM"
+      },
+      {
+        "text": "A reward for high-responsibility clinical specialization, noble service, and medical expertise.",
+        "stream": "PCB"
+      },
+      {
+        "text": "The main scorecard: I want to master how money flows, compounds, and creates business wealth.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "A means for financial security while I pursue public service, legal authority, or administrative power.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "A tool funded by building my own D2C brand, creative agency, or digital content footprint.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "scenario": "Imagine all internet search engines stop working for 3 days. What is your reaction?",
+    "options": [
+      {
+        "text": "Frustratedâ€”I rely on developer forums, online documentation, and quick code lookup to build things.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Calmâ€”I rely on standard medical reference books, textbook notes, and biological fundamentals.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Alertâ€”I monitor physical cash flow, local market prices, and real-world shop transactions directly.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Preparedâ€”I turn to physical law gazettes, history archives, and official government handbooks.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Creativeâ€”I spend time sketching on paper, crafting physical apparel samples, and filming offline.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "scenario": "What is your natural attitude toward rules, regulations, and guidelines?",
+    "options": [
+      {
+        "text": "Rules are system constraintsâ€”I like finding clever technical hacks or efficiency workarounds.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Rules are vital safety protocolsâ€”following medical procedures strictly prevents harm.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Rules are financial/tax parametersâ€”I study them to optimize business profit legally.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Rules are legal statutesâ€”I analyze their constitutional validity, history, and court enforcement.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Rules are meant to be brokenâ€”I challenge old trends to create new visual styles and original media.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "scenario": "When building a scale model house out of cardboard, what part of the project excites you most?",
+    "options": [
+      {
+        "text": "Calculating structural load distribution, wiring miniature LED circuits, and making doors motorized.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Designing bio-ventilation, indoor plant ecosystems, and ensuring healthy living conditions.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Calculating exact material costs per square foot and staying strictly under budget.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Writing a background story about the family living there and drafting land ownership deeds.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Selecting wallpaper colors, fabric textures for furniture, lighting design, and aesthetic decor.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "scenario": "Which of these daily work environments sounds most exhausting to you?",
+    "options": [
+      {
+        "text": "A noisy hospital emergency room dealing with blood, patients, and biological stress all day.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Staring at a black terminal screen debugging thousands of lines of code logic endlessly.",
+        "stream": "PCB"
+      },
+      {
+        "text": "A quiet museum analyzing ancient legal documents, historical archives, and writing papers.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "A loud stock trading floor dealing with financial spreadsheets and market numbers continuously.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "A rigid office desk with zero visual creativity, no design freedom, and uniform dress codes.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "scenario": "How do you feel about continuous learning after age 25?",
+    "options": [
+      {
+        "text": "I expect tech languages and frameworks to change every 3 years, so constant self-learning is a must.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I expect to stay in formal training (medical residency, fellowships, specialization exams) into my late 20s.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I expect to learn on the job by tracking market regulation changes, interest rates, and business deals.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I expect to update my knowledge through continuous legal amendments, policy papers, and case law.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I expect to stay updated by following changing global trends, digital media tools, and consumer tastes.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "scenario": "When playing a complex strategic board game (like Monopoly, Chess, or Catan), what is your style?",
+    "options": [
+      {
+        "text": "I calculate future moves using logical probability, spatial board control, and decision trees.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I play defensively, conserving resources carefully to outlast opponents through high resilience.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I trade aggressively, control high-rent assets, and dominate cash flow.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I form political alliances, negotiate treaties, and use rules to outmaneuver rivals.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I use unexpected creative plays, psychological bluffs, and unconventional tactics.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q21",
+    "scenario": "You are tasked with redesigning your school uniform. What is your primary focus?",
+    "options": [
+      {
+        "text": "Integrating smart, water-resistant tech fabrics with hidden cable slots for devices.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Ensuring the fabric is hypoallergenic, breathable, anti-bacterial, and health-safe.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Sourcing bulk fabric at low costs to maximize affordability and vendor margins.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Ensuring it complies with school board equality codes, formal standards, and institutional tradition.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Creating a modern, stylish silhouette with trendy color palettes that students love wearing.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "scenario": "How do you respond when faced with a problem that has NO obvious solution?",
+    "options": [
+      {
+        "text": "I break it down into smaller algorithmic sub-problems and test logical solutions one by one.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I search verified medical/scientific literature and peer-reviewed case studies for precedents.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I look for a practical business compromise that minimizes financial risk and saves money.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I examine historical legal precedents, constitutional principles, and philosophical debate arguments.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I brainstorm out-of-the-box creative ideas, sketch visual concepts, and try radical new designs.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "scenario": "Which school accomplishment gave you the deepest feeling of satisfaction?",
+    "options": [
+      {
+        "text": "Solving a multi-step math or physics problem that stumped the entire class.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Dissecting a plant stem or organ under a microscope and correctly identifying all cellular structures.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Balancing a mock accounting ledger perfectly or winning a business plan contest.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Winning a school debate, scoring top marks on a history essay, or leading a mock parliament.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Directing a short film, designing festival posters, styling a drama outfit, or winning an art contest.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "scenario": "What is your preference regarding working with abstract ideas versus physical creation?",
+    "options": [
+      {
+        "text": "I love pure abstract logic (coding/math) combined with tangible technology hardware.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I prefer working with living physical organisms, human bodies, and biological specimens.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I prefer working with numerical financial data, business valuation concepts, and market models.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I prefer working with legal doctrines, public administration systems, and philosophical frameworks.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I prefer working with physical fabrics, visual cameras, digital art canvases, and fashion styling.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q25",
+    "scenario": "When you see a complex commercial airplane on a runway, what thought pops into your head first?",
+    "options": [
+      {
+        "text": "'What aerodynamic physics, jet engine thrust calculations, and avionics code keep this flying?'",
+        "stream": "PCM"
+      },
+      {
+        "text": "'How does cabin pressure and high altitude affect human cardiovascular and respiratory health?'",
+        "stream": "PCB"
+      },
+      {
+        "text": "'How much does this jet cost per flight hour versus ticket revenue, fuel costs, and airline profits?'",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "'What international aviation laws, air space treaties, and security regulations govern this route?'",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "'Look at the exterior brand livery graphics, luxury cabin seating design, and flight attendant uniforms!'",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q26",
+    "scenario": "If you had to choose between a job with a predictable routine versus constant change, you'd pick:",
+    "options": [
+      {
+        "text": "Unpredictable technical challenges, but governed by clear, logical rules of engineering.",
+        "stream": "PCM"
+      },
+      {
+        "text": "High-responsibility clinical unpredictability (medical emergencies), backed by strict safety protocols.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Market-driven unpredictability where business trends, prices, and stock values change daily.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Structured legal or administrative routine punctuated by major policy shifts and court cases.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Complete creative freedom where every single project has a different visual format and media goal.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q27",
+    "scenario": "Which type of homework assignment do you dread the most?",
+    "options": [
+      {
+        "text": "Memorizing 50 dates of historic battles without any logical or mathematical formula.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Writing a computer program in a coding language you have never seen before.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Creating an artistic mood board or painting a canvas without any clear instructions.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Solving 30 complex calculus integration equations back-to-back.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Analyzing raw balance sheet ledgers and tax interest rates all afternoon.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q28",
+    "scenario": "How do you feel about processing large volumes of data?",
+    "options": [
+      {
+        "text": "I like writing Python scripts or formulas to automate processing the data instantly.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I like analyzing clinical trial data, medical lab test ranges, and biological metrics.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I like analyzing revenues, profit margins, expense categories, and sales figures.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I like analyzing crime statistics, census demographics, public policy data, and law records.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I prefer visual media trends, audience engagement metrics, visual style mood boards, and aesthetics.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q29",
+    "scenario": "When shopping for personal clothing or accessories, what matters to you most?",
+    "options": [
+      {
+        "text": "Pure utility, durable tech fabrics, comfortable fit, and functional pockets for devices.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Organic non-toxic fabric, skin safety, anti-bacterial quality, and ergonomic health comfort.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Getting a massive discount on a premium brandâ€”maximum price-to-value ratio.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Durable, formal attire that matches institutional standards and professional respect.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Unique visual styling, custom drape, eye-catching color schemes, and brand storytelling.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q30",
+    "scenario": "Which statement best describes your philosophy toward making mistakes?",
+    "options": [
+      {
+        "text": "Mistakes are just software bugsâ€”find them, patch the code, and re-deploy.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Mistakes can be dangerousâ€”double-checking medical procedures and facts is essential.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Mistakes cost moneyâ€”cut your financial losses quickly and hedge your investments.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Mistakes create legal liabilityâ€”ensure everything is documented and procedurally sound.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Mistakes are artistic happy accidents that often lead to new design trends.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q31",
+    "scenario": "What is your reaction when someone presents a major conspiracy theory?",
+    "options": [
+      {
+        "text": "I analyze the physical and technological impossibility of the claim using hard science.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I check if there is peer-reviewed biological, medical, or empirical data to back it up.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I ask: 'Who profits financially from spreading this narrative, and what is the market motive?'",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I analyze the political propaganda history, legal implications, and state power dynamics behind it.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I examine how the theory is visually packaged, edited, and spread through digital media trends.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q32",
+    "scenario": "In a group project, what contribution makes you feel most valuable to the team?",
+    "options": [
+      {
+        "text": "Solving the hardest technical, mathematical, or coding hurdle that stumped everyone else.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Doing the detailed scientific research, factual checking, and biological verification.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Managing the overall budget, timeline schedule, project economics, and final pitch.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Drafting the main written report, ensuring legal compliance, and leading the oral debate.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Designing the visual presentation slides, shooting/editing demo media, and styling the look.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q33",
+    "scenario": "Which major global challenge do you secretly wish you could dedicate your career to solving?",
+    "options": [
+      {
+        "text": "Building clean energy technology, quantum computing, or autonomous robotics.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Curing chronic diseases, advancing genetic medicine, or extending healthy human life.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Fixing financial inequality, expanding access to small business capital, and global trade growth.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Reforming justice systems, strengthening democratic governance, and ending civil rights abuses.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Building eco-friendly zero-waste fashion brands, sustainable product design, and creative media.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q34",
+    "scenario": "How do you feel about working in a laboratory or studio environment?",
+    "options": [
+      {
+        "text": "Excited if it involves robotics, physics testing rigs, microprocessors, or hardware tools.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Excited if it involves cell cultures, DNA sequencing, chemical titrations, or microscopes.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Indifferentâ€”I'd rather be analyzing business spreadsheets, sales numbers, or corporate strategy.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Indifferentâ€”I'd rather be in a law library, parliamentary archive, court room, or research institute.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Excited if it involves a fashion design studio, garment cutting tables, cameras, and lighting rigs.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q35",
+    "scenario": "Which school teacher earned your highest respect growing up?",
+    "options": [
+      {
+        "text": "The Math/Physics teacher who proved every complex equation on the board from first principles.",
+        "stream": "PCM"
+      },
+      {
+        "text": "The Biology teacher who explained how the human body operates with incredible detail.",
+        "stream": "PCB"
+      },
+      {
+        "text": "The Economics/Math teacher who taught real-world money, business, and practical financial logic.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "The History/Civics teacher who made political struggles, law cases, and global history come alive.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "The Art/Design teacher who encouraged original creative vision and visual self-expression.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q36",
+    "scenario": "How do you feel about working with physical hands-on craft versus pure abstract concepts?",
+    "options": [
+      {
+        "text": "I like writing digital code AND tinkering with physical electronics hardware/mechanics.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I like physical biological tasks like dissections, clinical testing, and handling medical tools.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I prefer working with concepts of monetary value, financial ledger structures, and commercial trade.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I prefer working with written laws, political philosophy, historical texts, and judicial arguments.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I love physical textile stitching, draping fabric, sketching designs, or filming digital media.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q37",
+    "scenario": "If you had to read a 300-page book over a single weekend, which topic would you pick?",
+    "options": [
+      {
+        "text": "Hard Sci-Fi about space engineering, artificial intelligence, or theoretical physics.",
+        "stream": "PCM"
+      },
+      {
+        "text": "A medical thriller about a bio-outbreak investigation or neurosurgeon memoirs.",
+        "stream": "PCB"
+      },
+      {
+        "text": "A biography of a legendary business founder, stock investor, or corporate saga.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "A landmark Supreme Court trial breakdown, political biography, or world war history.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "A history of iconic global fashion luxury houses, streetwear culture, or media design.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q38",
+    "scenario": "What is your top priority when choosing a college degree program?",
+    "options": [
+      {
+        "text": "Will I learn cutting-edge technical skills that let me build real software, apps, or hardware?",
+        "stream": "PCM"
+      },
+      {
+        "text": "Is it a recognized pre-med gateway for medical licensing, specialization, and clinical practice?",
+        "stream": "PCB"
+      },
+      {
+        "text": "Will it open doors to corporate finance, high-paying business management, or professional CA/CFA titles?",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Will it build my foundation for civil service exams (UPSC), law school (CLAT), or policy research?",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Will it help me build an original portfolio, launch my own D2C brand, or enter high-end media/design?",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q39",
+    "scenario": "How do you approach giving an unexpected public speech?",
+    "options": [
+      {
+        "text": "I stick strictly to hard data, facts, slide diagrams, and technical logic.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I explain health facts, scientific truths, or biological evidence clearly.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I focus on practical business benefits, ROI, and cost-value outcomes.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I use persuasive legal arguments, formal rhetoric, historical precedents, and policy context.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I use visual storytelling, aesthetic presentation slides, emotional warmth, and creative flair.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q40",
+    "scenario": "When watching a high-profile fashion runway show or brand launch, what crosses your mind?",
+    "options": [
+      {
+        "text": "'How do factories use automated machines and CAD tools to manufacture complex structural garments?'",
+        "stream": "PCM"
+      },
+      {
+        "text": "'Models must maintain intense physiological health, nutrition discipline, and posture alignment.'",
+        "stream": "PCB"
+      },
+      {
+        "text": "'What are the profit margins on luxury brand accessories and e-commerce distribution costs?'",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "'How do trademark laws protect these original designs against cheap global knockoffs?'",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "'Look at the creative theme, dramatic fabric drape, color coordination, and visual styling!'",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q41",
+    "scenario": "What is your relationship with repetitive practice (like doing 50 math problems or 50 flashcards)?",
+    "options": [
+      {
+        "text": "I enjoy math problem sets as long as each question presents a slightly different logical puzzle.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I embrace flashcard repetition because memorizing medical terms and biology pathways requires practice.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I like financial calculation drills if they help me master fast accounting and business math.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I like reviewing legal case law briefs or historical timeline summaries systematically.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I dislike repetitive memory drillsâ€”I prefer spending hours crafting an original design or video.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q42",
+    "scenario": "How do you feel about managing people and leading teams?",
+    "options": [
+      {
+        "text": "I'd rather lead technical architecture, codebases, or engineering projects directly.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I'd rather lead patient care units, clinical research teams, or healthcare staff.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I love managing sales teams, business operations, and financial performance metrics.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I'd rather manage government departments, legal teams, or public administration offices.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I'd rather lead creative direction, video production crews, styling teams, or brand marketing.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q43",
+    "scenario": "Which competitive arena gives you the biggest adrenaline rush?",
+    "options": [
+      {
+        "text": "Hackathons, competitive coding platforms, or robotics challenges.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Science Olympiads, Biology quizzes, or medical diagnostic challenges.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Virtual stock trading competitions, business case challenges, or startup pitch contests.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Moot court competitions, parliamentary debates, or essay writing championships.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Design portfolio contests, fashion styling challenges, short film festivals, or creative arts expos.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q44",
+    "scenario": "How do you handle a major professional setback?",
+    "options": [
+      {
+        "text": "Analyze the technical bug logically, patch the system error, and re-deploy.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Review the clinical case history deeply to ensure diagnostic mistakes never repeat.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Cut financial losses, audit the business strategy, and reallocate capital to working channels.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Review legal options, file an appeal, or reform administrative procedures.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Re-evaluate the creative narrative, tweak the brand positioning, and launch a fresh visual campaign.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q45",
+    "scenario": "Which category of mobile apps takes up most of your screen time?",
+    "options": [
+      {
+        "text": "Developer utilities, code editors, tech forums, or strategy gaming apps.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Health/fitness analytics, medical reference apps, or science news feeds.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Stock trading apps, business news, crypto trackers, or banking tools.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Current affairs apps, legal databases, UPSC news prep, or political podcasts.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Pinterest, Instagram creator tools, video editing apps, or fashion e-commerce platforms.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q46",
+    "scenario": "If you could design your own ideal high school course, what would it be named?",
+    "options": [
+      {
+        "text": "'Applied Physics, Robotics & Algorithmic Code'",
+        "stream": "PCM"
+      },
+      {
+        "text": "'Human Physiology, Genetics & Biomedical Science'",
+        "stream": "PCB"
+      },
+      {
+        "text": "'Practical Finance, Stock Markets & Business Enterprise'",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "'Constitutional Law, Indian Administration & World History'",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "'Visual Design, D2C Apparel Branding & Digital Media Production'",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q47",
+    "scenario": "What type of environmental or social contribution matters most to you?",
+    "options": [
+      {
+        "text": "Building clean energy grids, electric vehicle tech, or carbon capture software.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Protecting ecological biodiversity, curing infectious diseases, or improving public health.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Funding eco-friendly startups through sustainable finance and green business models.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Drafting environmental protection laws, enforcing climate regulations, and policy advocacy.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Designing zero-waste sustainable clothing lines, upcycled textiles, and eco-brand campaigns.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q48",
+    "scenario": "How do you react to highly specialized professional jargon?",
+    "options": [
+      {
+        "text": "I love tech jargon (APIs, algorithms, vectors)â€”it makes technical ideas precise.",
+        "stream": "PCM"
+      },
+      {
+        "text": "I love medical and biological terms (Latin anatomy, disease names)â€”it feels authoritative.",
+        "stream": "PCB"
+      },
+      {
+        "text": "I love financial terminology (EBITDA, ROI, Liquidity, Margins)â€”it shows commercial clarity.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "I love legal and administrative phrasing (Sub-clause, Habeas Corpus, Precedent)â€”it carries power.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "I prefer expressive visual and media terms (Silhouette, Mood Board, Drape, Color Grading).",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q49",
+    "scenario": "What is your capability with 3D mental visualization?",
+    "options": [
+      {
+        "text": "Strong: I easily visualize 3D mechanical components, vector forces, and geometric structures.",
+        "stream": "PCM"
+      },
+      {
+        "text": "Strong for organic structures: I easily visualize 3D organ anatomy, cell structures, and molecules.",
+        "stream": "PCB"
+      },
+      {
+        "text": "Moderate: I prefer visualizing financial graphs, organizational charts, and market supply chains.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "Moderate: I prefer visualizing historical timelines, geographical maps, and social structures.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "Very strong for aesthetics: I easily visualize garment drapes, fashion outfits, camera angles, and decor.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  },
+  {
+    "id": "q50",
+    "scenario": "When you finish a major initiative, what sign proves it was a complete success?",
+    "options": [
+      {
+        "text": "It operates smoothly without system crashes, bugs, or mechanical failures.",
+        "stream": "PCM"
+      },
+      {
+        "text": "It accurately diagnoses/treats a biological problem and passes health verification.",
+        "stream": "PCB"
+      },
+      {
+        "text": "It hits or exceeds its financial profit targets and revenue goals.",
+        "stream": "COMMERCE"
+      },
+      {
+        "text": "It sets a binding legal precedent, passes official policy review, or wins public debate.",
+        "stream": "ARTS_LAW"
+      },
+      {
+        "text": "It generates massive visual appreciation, creator media engagement, and brand acclaim.",
+        "stream": "CREATIVE_FASHION"
+      }
+    ]
+  }
+]
